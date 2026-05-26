@@ -42,3 +42,8 @@ npm run dev
 
 5. Open your browser:
 Navigate to http://localhost:3000 to see the application.
+
+
+
+🔗 Live Demo
+View the live application here
