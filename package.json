@@ -1,0 +1,30 @@
+{
+  "name": "college-discovery",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@tanstack/react-query": "^4.x",
+    "@tanstack/react-query-devtools": "^4.x",
+    "axios": "^1.4.0",
+    "classnames": "^2.x",
+    "dayjs": "^1.x",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "zustand": "^4.x"
+  },
+  "devDependencies": {
+    "@types/node": "25.9.1",
+    "@types/react": "19.2.15",
+    "autoprefixer": "^10.x",
+    "next": "^14.x",
+    "postcss": "^8.x",
+    "tailwindcss": "^3.x",
+    "typescript": "^5.x"
+  }
+}
